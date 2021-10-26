@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\Elektronika\PROJEKTY\Warsztat\.metadata\.plugins\org.eclipse.jdt.core
+2634460847.index
+2216772128.index
+1865797976.index
